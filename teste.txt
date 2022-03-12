@@ -1,0 +1,7 @@
+git status status do arquivo
+git add adicionar para o commit
+git commit -m "nome do commit"
+git log --graph para ver o codigo do commit
+git log --oneline --graph para ver os nodulos
+code . para abrir o vscode dentro do diretorio
+git branch (indentifica a branch que esta no momento)
