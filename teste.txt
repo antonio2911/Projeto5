@@ -5,3 +5,19 @@ git log --graph para ver o codigo do commit
 git log --oneline --graph para ver os nodulos
 code . para abrir o vscode dentro do diretorio
 git branch (indentifica a branch que esta no momento)
+
+
+rastrear o commit
+git checkout bc4836c => codigo do commit (vai aparece as alterações desse comiit
+)
+
+git checkout master => volta a ultima versão do commit
+
+voltar a versão
+git diff mostra as alterações
+git status
+git checkout a.txt = voltar a versão antes de commitar
+depois que você da o add não e possivel desfazer a alteração porque o arquivo vai estar dentro do container para isso digite
+git reset HEAD para tirar o arquivo do container
+
+remover um commit: git reset --hard d23xd (numero do commit)
