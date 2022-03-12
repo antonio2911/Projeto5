@@ -1,0 +1,24 @@
+.areaTotal{
+background-color:#552386;
+height:30%;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.logo{
+  height: 100%;
+}
+.card-content{
+  height: calc(100vh - 30%);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+width: 30%;
+
+}
